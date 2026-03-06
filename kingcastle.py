@@ -99,7 +99,7 @@ if results:
         debugprint("[-] Calling get_netcomputer to retrieve the dnshostname")
         try:
             dnshostname = netrequester.get_netcomputer(custom_filter=LDAP_FILTER_DN.format(result.netbootserver), attributes=['dnshostname'])[0]
-            dnshostname =dnshostname.dnshostame
+            dnshostname = dnshostname.dnshostname
         except IndexError:
             debugprint("[-] dnshostname not found")
             dnshostname = 'UKNOWN'
